@@ -17,5 +17,7 @@ fbc.wcfbc.net
 resolver.msg.global.xiaomi.net
 yt3.ggpht.com
 config.samqaicongen.com
+metok-ccc.intl.xiaomi.com
+metok.intl.xiaomi.com
 nl.kpn.rcs.telephony.goog
 _sips._tcp.nl.kpn.rcs.telephony.goog
