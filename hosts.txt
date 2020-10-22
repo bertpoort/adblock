@@ -19,5 +19,6 @@ yt3.ggpht.com
 config.samqaicongen.com
 metok-ccc.intl.xiaomi.com
 metok.intl.xiaomi.com
+moaps.tmo.net
 nl.kpn.rcs.telephony.goog
 _sips._tcp.nl.kpn.rcs.telephony.goog
