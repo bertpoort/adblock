@@ -1,3 +1,19 @@
-0.0.0.0         foo.bar
-
-::0             foo.bar
+activity.windows.com
+graph.facebook.com
+connect.facebook.net
+web.facebook.com
+syndication.twitter.com
+www.facebook.com
+g.galleryapi.micloud.xiaomi.net
+sygic-api.infinario.com
+fr.app.chat.global.xiaomi.net
+static.pexi.nl
+pexi.nl
+statslogger.rocket.persgroep.cloud
+static-nl.plista.com
+farm-nl.plista.com
+imasdk.googleapis.com
+fbc.wcfbc.net
+resolver.msg.global.xiaomi.net
+yt3.ggpht.com
+config.samqaicongen.com
