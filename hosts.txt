@@ -21,5 +21,6 @@ metok-ccc.intl.xiaomi.com
 metok.intl.xiaomi.com
 moaps.tmo.net
 animated.dt71.net
+litemsg.facemojikeyboard.com
 nl.kpn.rcs.telephony.goog
 _sips._tcp.nl.kpn.rcs.telephony.goog
