@@ -22,5 +22,8 @@ metok.intl.xiaomi.com
 moaps.tmo.net
 animated.dt71.net
 litemsg.facemojikeyboard.com
+globalapi.facemojikeyboard.com
+api.facemojikeyboard.com
+api.input.intl.miui.com
 nl.kpn.rcs.telephony.goog
 _sips._tcp.nl.kpn.rcs.telephony.goog
