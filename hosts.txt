@@ -28,3 +28,4 @@ api.input.intl.miui.com
 nl.kpn.rcs.telephony.goog
 _sips._tcp.nl.kpn.rcs.telephony.goog
 mcc.intl.inf.miui.com
+bidding.pexi.nl
