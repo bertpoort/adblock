@@ -29,3 +29,6 @@ nl.kpn.rcs.telephony.goog
 _sips._tcp.nl.kpn.rcs.telephony.goog
 mcc.intl.inf.miui.com
 bidding.pexi.nl
+prod-native.actionbutton.co
+api.actionbutton.co
+static.actionbutton.co
