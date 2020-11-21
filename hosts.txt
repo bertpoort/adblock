@@ -32,3 +32,4 @@ bidding.pexi.nl
 prod-native.actionbutton.co
 api.actionbutton.co
 static.actionbutton.co
+embed.actionbutton.co
