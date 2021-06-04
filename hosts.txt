@@ -22,6 +22,7 @@ metok.intl.xiaomi.com
 moaps.tmo.net
 animated.dt71.net
 litemsg.facemojikeyboard.com
+litestatis.facemojikeyboard.com
 globalapi.facemojikeyboard.com
 api.facemojikeyboard.com
 api.input.intl.miui.com
