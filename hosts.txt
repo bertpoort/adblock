@@ -34,3 +34,4 @@ prod-native.actionbutton.co
 api.actionbutton.co
 static.actionbutton.co
 embed.actionbutton.co
+vortex.data.microsoft.com
