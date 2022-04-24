@@ -42,3 +42,4 @@ idm.iot.mi.com
 de-idm.api.io.mi.com
 sdkconfig.ad.intl.xiaomi.com
 thm.market.intl.xiaomi.com
+resolver.msg.xiaomi.net
