@@ -35,3 +35,10 @@ api.actionbutton.co
 static.actionbutton.co
 embed.actionbutton.co
 vortex.data.microsoft.com
+api.zhuti.intl.xiaomi.com
+data.mistat.intl.xiaomi.com
+find.api.micloud.xiaomi.net
+idm.iot.mi.com
+de-idm.api.io.mi.com
+sdkconfig.ad.intl.xiaomi.com
+thm.market.intl.xiaomi.com
