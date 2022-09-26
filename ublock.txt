@@ -1,6 +1,6 @@
 ! Title: Berts uBlock filters
 ! Description: Filters optimized for uBlock, to be used along EasyList
-! Expires: 4 days
+! Expires: 3 days
 ! Last modified: Fri, 23 Sep 2022 18:27:05 +0000
 ! Homepage: https://github.com/bertpoort/adblock
 ! License: https://github.com/bertpoort/adblock/blob/master/LICENSE
