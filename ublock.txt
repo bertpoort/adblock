@@ -1,7 +1,7 @@
 ! Title: Berts uBlock filters
 ! Description: Filters optimized for uBlock, to be used along EasyList
 ! Expires: 3 days
-! Last modified: Fri, 23 Sep 2022 18:27:05 +0000
+! Last modified: Fri, 26 Sep 2022 18:27:05 +0000
 ! Homepage: https://github.com/bertpoort/adblock
 ! License: https://github.com/bertpoort/adblock/blob/master/LICENSE
 !
@@ -43,17 +43,7 @@
 ||zemanta.com^$third-party
 ||zergnet.com^$third-party
 
-#@@||copernica.com^$document
-#@@||copernica.nl^$document
-#@@||eabeurs.nl^$document
-#@@||fhi.nl^$document
-#@@||fhi-wp.nl^$document
-#@@||hetinstrument.nl^$document
-#@@||instrumentengids.nl^$document
 @@||kernel.org^$document
-#@@||n200.com^$document
-#@@||windexcc.nl^$document
-#@@||wots.nl^$document
 # @@||google-analytics.com
 # @@||googleadservices.com
 # @@||googlesyndication.com
