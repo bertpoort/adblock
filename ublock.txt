@@ -1,0 +1,170 @@
+! Title: Berts uBlock filters
+! Description: Filters optimized for uBlock, to be used along EasyList
+! Expires: 4 days
+! Last modified: Fri, 23 Sep 2022 18:27:05 +0000
+! Homepage: https://github.com/bertpoort/adblock
+! License: https://github.com/bertpoort/adblock/blob/master/LICENSE
+!
+! GitHub issues: https://github.com/bertpoort/adblock/issues
+! GitHub pull requests: https://github.com/bertpoort/adblock/pulls
+
+#||.bid^$third-party
+||adrequest.net^$third-party
+||advendor.net^$third-party
+||consensu.org^$third-party
+#||disqus.com^$third-party
+#||disquscdn.com^$third-party
+#||edgecastcdn.net^$third-party
+||facebook.*^$domain=~facebook.com|~facebook.net|~cc.com
+||faktor.io^$third-party
+||fbcdn.net^$domain=~facebook.com|~facebook.net|~cc.com
+||accounts.google.com^$domain=~google.com|~google.nl
+||apis.google.com^$domain=~google.com|~google.nl
+#||google.com/js/plusone*^$domain=~google.com|~google.nl
+#||google-analytics.com^$domain=~google.com|~google.nl|~nu.nl|~wtf.nl|~zie.nl
+#||googleadservices.com^$third-party
+#||googlesyndication.com^$third-party
+#||googletagservices.com^$third-party
+#||gigya.com^$third-party
+||gravity.com^$third-party
+#||nextday.media^$third-party
+||outbrain.com^$third-party
+#||plusone.google.com^$domain=~google.com|~google.nl
+#||sanomaservices.nl^$third-party
+||shareaholic.net^$third-party
+||sprinklecontent.com^$third-party
+||taboola.com^$third-party
+||taboolasyndication.com^$third-party
+||tiqcdn.com^$third-party
+||trackuity.supplies^$third-party
+#||twitter.*^$domain=~twitter.com|~twitter.net
+#||twimg.com^$domain=~twitter.com|~twitter.net
+||ur.ly^$third-party
+||zemanta.com^$third-party
+||zergnet.com^$third-party
+
+#@@||copernica.com^$document
+#@@||copernica.nl^$document
+#@@||eabeurs.nl^$document
+#@@||fhi.nl^$document
+#@@||fhi-wp.nl^$document
+#@@||hetinstrument.nl^$document
+#@@||instrumentengids.nl^$document
+@@||kernel.org^$document
+#@@||n200.com^$document
+#@@||windexcc.nl^$document
+#@@||wots.nl^$document
+# @@||google-analytics.com
+# @@||googleadservices.com
+# @@||googlesyndication.com
+# @@||googletagservices.com
+
+#@@||cdn1.smartadserver.com^$domain=bild.de
+@@||smartadserver.com/diff/*/*.js$domain=bild.de
+@@||ec-ns.sascdn.com^$domain=bild.de
+@@/advertising.js$domain=nu.nl
+#@@||cdns.gigya.com/$domain=rtlxl.nl
+@@||staticfiles.rtl.nl^$domain=rtlxl.nl
+@@/vendor-ads-$domain=southpark.cc.com
+# @@||partner.googleadservices.com^$domain=tweakers.net
+@@/showads.$domain=telegraaf.nl
+@@/securepubads.$domain=forbes.com
+
+youtube.com###masthead-ad
+youtube.com###ticker
+#youtube.com##ytd-compact-promoted-video-renderer
+youtube.com##ytd-promoted-sparkles-text-search-renderer
+youtube.com##ytd-popup-container
+youtube.com##iron-overlay-backdrop
+youtube.com##tp-yt-iron-overlay-backdrop
+#youtube.com##ytd-consent-bump-lightbox
+#youtube.com##ytd-consent-bump-v2-lightbox
+youtube.com##ytd-display-ad-renderer
+youtube.com##ytd-promoted-sparkles-web-renderer
+youtube.com##ytd-carousel-ad-renderer
+youtube.com##ytd-display-ad-renderer
+
+||mediahuis.*/ka-ching/*
+reddit.com##div.promotedlink
+wikipedia.org###centralNotice.cn-fundraising
+wikipedia.org###frb-inline
+
+@@||privacy-mgmt.com^$script,domain=ad.nl
+@@||geolocation.onetrust.com^$domain=nu.nl
+
+nl.pepper.com##.js-telegram-widget
+nl.pepper.com##.js-keyword-alerts
+nl.pepper.com##.js-newsletter-widget
+
+tweakers.net##.iab_sf
+||aa.tweakers.nl^$third-party
+||ab.tweakers.nl^$third-party
+
+primevideo.com##img[src*="eur.svg"]:xpath(../../../../../../../..)
+primevideo.com##.atvwebplayersdk-title-text
+primevideo.com##.atvwebplayersdk-title-text:xpath(../..)
+primevideo.com##.atvwebplayersdk-subtitle-text
+primevideo.com##.atvwebplayersdk-rating-text
+primevideo.com##.atvwebplayersdk-rating-text:xpath(../../..)
+primevideo.com##.atvwebplayersdk-nextupcard-wrapper
+primevideo.com##.atvwebplayersdk-nextupcard-wrapper:xpath(..)
+primevideo.com##.dv-dp-node-watchparty
+primevideo.com##.more-purchase-options
+primevideo.com##button[name*="more-purchase-options"]
+
+ad.nl##.advertising-container-top
+ad.nl##.layout__component--temptation
+ad.nl##.fjs-dfp
+ad.nl##.widget--dossier > .widget__content
+ad.nl##.fjs-promotional-banner
+#ad.nl##.fjs-autoupdate-widget
+ad.nl##.widget--dossier
+#ad.nl##.video-dossier
+#ad.nl##.sections-dossier--full-width > .sections-dossier__content
+ad.nl##.widget--ankeiler-standard
+ad.nl##.widget--ankeiler-picture
+ad.nl##.widget > .articles-list
+#ad.nl##.fjs-poll
+ad.nl##.article__component--temptation
+ad.nl##.article__related
+ad.nl##.is-shop
+ad.nl##.widget-shop
+ad.nl##.footer__brand-list
+ad.nl##.news-tip
+ad.nl##.fjs-newsletter
+#ad.nl##.footer__social-links
+#ad.nl##.footer__bar
+ad.nl##.footer__dpgmedia
+#ad.nl##.premium__text:xpath(../../../..)
+#ad.nl##.plus-label:xpath(../../..)
+ad.nl##.fjs-snippet
+
+#nu.nl##.temptation__aside
+nu.nl##.temptation
+#nu.nl###header
+nu.nl##.tealium
+nu.nl##.followtag
+#nu.nl###block-426429
+#nu.nl###block-423041
+#nu.nl###block-429393
+#nu.nl##.block-wrapper-image
+nu.nl##.compact.nujij
+nu.nl##.compact.html
+#nu.nl##.videolist
+#nu.nl###block-426632
+#nu.nl###block-426715
+#nu.nl###block-426048
+#nu.nl##.thumb > .list--thumb
+nu.nl##a[href*="shop.nu.nl"]
+nu.nl##a[href*="/advertorial"]
+#nu.nl##a[href*="/nushop"]
+nu.nl##a[href*="bit.ly/folder"]
+nu.nl##.advertoriallist
+#nu.nl##.social
+#nu.nl##.copyright
+nu.nl##.footer_info
+#nu.nl##.featured-comments
+nu.nl##.banner
+#nu.nl##.link-block--thumb
+nu.nl##.call-to-action
+
