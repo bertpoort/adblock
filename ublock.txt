@@ -87,6 +87,7 @@ nl.pepper.com##.js-keyword-alerts
 nl.pepper.com##.js-newsletter-widget
 
 tweakers.net##.iab_sf
+tweakers.net##.noTrackingMessage
 #tweakers.net###fpPromo
 ||aa.tweakers.nl^$third-party
 ||ab.tweakers.nl^$third-party
