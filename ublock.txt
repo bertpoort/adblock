@@ -93,17 +93,32 @@ tweakers.net##.noTrackingMessage
 ||aa.tweakers.nl^$third-party
 ||ab.tweakers.nl^$third-party
 
-primevideo.com##img[src*="eur.svg"]:xpath(../../../../../../../..)
-primevideo.com##.atvwebplayersdk-title-text
-primevideo.com##.atvwebplayersdk-title-text:xpath(../..)
-primevideo.com##.atvwebplayersdk-subtitle-text
-primevideo.com##.atvwebplayersdk-rating-text
-primevideo.com##.atvwebplayersdk-rating-text:xpath(../../..)
-primevideo.com##.atvwebplayersdk-nextupcard-wrapper
-primevideo.com##.atvwebplayersdk-nextupcard-wrapper:xpath(..)
-primevideo.com##.dv-dp-node-watchparty
-primevideo.com##.more-purchase-options
-primevideo.com##button[name*="more-purchase-options"]
+primevideo.com##.tst-card-wrapper .tst-ec-orange > .dvui-tooltip-container > label > img[src$="eur.svg"]:xpath(../../../../../../../..)
+primevideo.com##.av-hover-wrapper .tst-ec-orange > .dvui-tooltip-container > label > img[src$="eur.svg"]:xpath(../../../../../../../../..)
+#primevideo.com##.tst-collection > .tst-faceted-carousel > div > div > div > span:has-text(/^Store$/i):xpath(../../../../..)
+primevideo.com##.tst-collection > .tst-faceted-carousel > div > div > div > span:has-text(/^Store$/i):xpath(../../../../div[2])
+#primevideo.com##.tst-collection > .tst-faceted-carousel > div > div > div > span:has-text(/^Store$/i):xpath(../../..)
+primevideo.com##.atvwebplayersdk-player-container .atvwebplayersdk-title-text
+primevideo.com##.atvwebplayersdk-player-container .atvwebplayersdk-title-text:xpath(../..)
+#primevideo.com##.atvwebplayersdk-player-container .atvwebplayersdk-subtitle-text
+primevideo.com##.atvwebplayersdk-player-container .atvwebplayersdk-rating-text
+primevideo.com##.atvwebplayersdk-player-container .atvwebplayersdk-rating-text:xpath(../../..)
+primevideo.com##.atvwebplayersdk-player-container .atvwebplayersdk-nextupcard-wrapper
+primevideo.com##.atvwebplayersdk-player-container .atvwebplayersdk-nextupcard-wrapper:xpath(..)
+#primevideo.com###dv-action-box .dv-dp-node-watchparty
+primevideo.com###dv-action-box form[action^="/watchparty"]
+#primevideo.com##.more-purchase-options
+primevideo.com##button[name="more-purchase-options"]
+primevideo.com##.tst-superhero
+#primevideo.com##.tst-twin-hero-item
+primevideo.com##.tst-collection h2.tst-carousel-header:has-text(/^Subscribe to Channels/i):xpath(../../../../..)
+#primevideo.com##.tst-collection h2:has-text(/^Currently trending movies/i)
+primevideo.com##.tst-collection h2:has-text(/^Previews for you/i):xpath(../../../..)
+primevideo.com##.tst-collection h2:has-text(/^Recommended movies on Prime Video Channels/i):xpath(../../../../..)
+primevideo.com##.tst-collection h2:has-text(/^Recommended on Prime Video Channels/i):xpath(../../../../..)
+#primevideo.com##.tst-charts-carousel
+primevideo.com##.tst-collection h2.tst-carousel-header:has-text(/^Top 10 in the Netherlands/i):xpath(../../../../../../../../..)
+primevideo.com##.tst-collection h2.tst-carousel-header:has-text(/^3 months for/i):xpath(../../../../..)
 
 ad.nl##.advertising-container-top
 ad.nl##.layout__component--temptation
