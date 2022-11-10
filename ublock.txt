@@ -97,7 +97,8 @@ primevideo.com##.tst-card-wrapper .tst-ec-orange > .dvui-tooltip-container > lab
 primevideo.com##.av-hover-wrapper .tst-ec-orange > .dvui-tooltip-container > label > img[src$="eur.svg"]:xpath(../../../../../../../../..)
 #primevideo.com##.tst-collection > .tst-faceted-carousel > div > div > div > span:has-text(/^Store$/i):xpath(../../../../..)
 primevideo.com##.tst-collection > .tst-faceted-carousel > div > div > div > span:has-text(/^Store$/i):xpath(../../../../div[2])
-#primevideo.com##.tst-collection > .tst-faceted-carousel > div > div > div > span:has-text(/^Store$/i):xpath(../../..)
+primevideo.com##.tst-collection > .tst-faceted-carousel > div > div > div > span:has-text(/^Store$/i):xpath(../../..)
+
 primevideo.com##.atvwebplayersdk-player-container .atvwebplayersdk-title-text
 primevideo.com##.atvwebplayersdk-player-container .atvwebplayersdk-title-text:xpath(../..)
 #primevideo.com##.atvwebplayersdk-player-container .atvwebplayersdk-subtitle-text
@@ -109,6 +110,7 @@ primevideo.com##.atvwebplayersdk-player-container .atvwebplayersdk-nextupcard-wr
 primevideo.com###dv-action-box form[action^="/watchparty"]
 #primevideo.com##.more-purchase-options
 primevideo.com##button[name="more-purchase-options"]
+
 primevideo.com##.tst-superhero
 #primevideo.com##.tst-twin-hero-item
 primevideo.com##.tst-collection h2.tst-carousel-header:has-text(/^Subscribe to Channels/i):xpath(../../../../..)
@@ -175,4 +177,3 @@ nu.nl##.footer_info
 nu.nl##.banner
 #nu.nl##.link-block--thumb
 nu.nl##.call-to-action
-
