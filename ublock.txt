@@ -1,7 +1,7 @@
 ! Title: Berts uBlock filters
 ! Description: Berts uBlock filters
 ! Expires: 3 days
-! Last modified: 28 Apr 2023 19:27:05 +0000
+! Last modified: 28 Apr 2023 21:27:05 +0000
 ! Homepage: https://github.com/bertpoort/adblock
 ! License: https://github.com/bertpoort/adblock/blob/master/LICENSE
 !
