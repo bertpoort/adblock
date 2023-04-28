@@ -93,11 +93,11 @@ tweakers.net##.noTrackingMessage
 ||aa.tweakers.nl^$third-party
 ||ab.tweakers.nl^$third-party
 
-primevideo.com##.tst-card-wrapper .tst-ec-orange > .dvui-tooltip-container > label > img[src$="eur.svg"]:xpath(../../../../../../../..)
-primevideo.com##.av-hover-wrapper .tst-ec-orange > .dvui-tooltip-container > label > img[src$="eur.svg"]:xpath(../../../../../../../../..)
-#primevideo.com##.tst-collection > .tst-faceted-carousel > div > div > div > span:has-text(/^Store$/i):xpath(../../../../..)
-primevideo.com##.tst-collection > .tst-faceted-carousel > div > div > div > span:has-text(/^Store$/i):xpath(../../../../div[2])
-primevideo.com##.tst-collection > .tst-faceted-carousel > div > div > div > span:has-text(/^Store$/i):xpath(../../..)
+#primevideo.com##.tst-card-wrapper .tst-ec-orange > .dvui-tooltip-container > label > img[src$="eur.svg"]:xpath(../../../../../../../..)
+#primevideo.com##.av-hover-wrapper .tst-ec-orange > .dvui-tooltip-container > label > img[src$="eur.svg"]:xpath(../../../../../../../../..)
+##primevideo.com##.tst-collection > .tst-faceted-carousel > div > div > div > span:has-text(/^Store$/i):xpath(../../../../..)
+#primevideo.com##.tst-collection > .tst-faceted-carousel > div > div > div > span:has-text(/^Store$/i):xpath(../../../../div[2])
+#primevideo.com##.tst-collection > .tst-faceted-carousel > div > div > div > span:has-text(/^Store$/i):xpath(../../..)
 
 primevideo.com##.atvwebplayersdk-player-container .atvwebplayersdk-title-text
 primevideo.com##.atvwebplayersdk-player-container .atvwebplayersdk-title-text:xpath(../..)
@@ -111,16 +111,26 @@ primevideo.com###dv-action-box form[action^="/watchparty"]
 #primevideo.com##.more-purchase-options
 primevideo.com##button[name="more-purchase-options"]
 
-primevideo.com##.tst-superhero
-#primevideo.com##.tst-twin-hero-item
-primevideo.com##.tst-collection h2.tst-carousel-header:has-text(/^Subscribe to Channels/i):xpath(../../../../..)
-#primevideo.com##.tst-collection h2:has-text(/^Currently trending movies/i)
-primevideo.com##.tst-collection h2:has-text(/^Previews for you/i):xpath(../../../..)
-primevideo.com##.tst-collection h2:has-text(/^Recommended movies on Prime Video Channels/i):xpath(../../../../..)
-primevideo.com##.tst-collection h2:has-text(/^Recommended on Prime Video Channels/i):xpath(../../../../..)
-#primevideo.com##.tst-charts-carousel
-primevideo.com##.tst-collection h2.tst-carousel-header:has-text(/^Top 10 in the Netherlands/i):xpath(../../../../../../../../..)
-primevideo.com##.tst-collection h2.tst-carousel-header:has-text(/^3 months for/i):xpath(../../../../..)
+#primevideo.com##.tst-superhero
+##primevideo.com##.tst-twin-hero-item
+#primevideo.com##.tst-collection h2.tst-carousel-header:has-text(/^Subscribe to Channels/i):xpath(../../../../..)
+##primevideo.com##.tst-collection h2:has-text(/^Currently trending movies/i)
+#primevideo.com##.tst-collection h2:has-text(/^Previews for you/i):xpath(../../../..)
+#primevideo.com##.tst-collection h2:has-text(/^Recommended movies on Prime Video Channels/i):xpath(../../../../..)
+#primevideo.com##.tst-collection h2:has-text(/^Recommended on Prime Video Channels/i):xpath(../../../../..)
+##primevideo.com##.tst-charts-carousel
+#primevideo.com##.tst-collection h2.tst-carousel-header:has-text(/^Top 10 in the Netherlands/i):xpath(../../../../../../../../..)
+#primevideo.com##.tst-collection h2.tst-carousel-header:has-text(/^3 months for/i):xpath(../../../../..)
+
+primevideo.com##section[data-testid^="standard-hero"]:xpath(..)
+primevideo.com##section[data-testid^="super-carousel"] span[data-testid^="carousel-title"]:has-text(/^Amazon Originals and Exclusives/i):xpath(../../..)
+primevideo.com##div[data-testid^="carousel-upsell-header"] span[data-testid^="carousel-title"]:has-text(/^Subscriptions you might like/i):xpath(../../../../../../../../..)
+#primevideo.com##section[data-testid^="standard-carousel"] span[data-testid^="carousel-title"]:has-text(/^Currently trending movies/i):xpath(../../../../../..)
+primevideo.com##section[data-testid^="cover-container"] h2:has-text(/^Experience music like never before/i):xpath(../../..)
+primevideo.com##section[data-testid^="cover-container"] h2:has-text(/^See what’s new in the Store/i):xpath(../../..)
+primevideo.com##span[data-testid^="offer-type-header-title"]:has-text(/^Top 10 in the Netherlands/i):xpath(../..)
+primevideo.com##article[data-card-entity-type^="Movie"] > div > span[data-testid^="unentitled-icon"]:xpath(../..)
+primevideo.com##section[data-testid^="standard-carousel"] > section > h2 > div> span[data-testid^="carousel-title"]:matches-css(color: rgb(255, 204, 0)):xpath(../../../..)
 
 #netflix.com##.watch-video--skip-content
 #netflix.com##.watch-video--back-container
