@@ -1,7 +1,7 @@
 ! Title: Berts uBlock filters
 ! Description: Berts uBlock filters
 ! Expires: 3 days
-! Last modified: 10 Apr 2023 19:27:05 +0000
+! Last modified: 28 Apr 2023 19:27:05 +0000
 ! Homepage: https://github.com/bertpoort/adblock
 ! License: https://github.com/bertpoort/adblock/blob/master/LICENSE
 !
@@ -121,6 +121,11 @@ primevideo.com##.tst-collection h2:has-text(/^Recommended on Prime Video Channel
 #primevideo.com##.tst-charts-carousel
 primevideo.com##.tst-collection h2.tst-carousel-header:has-text(/^Top 10 in the Netherlands/i):xpath(../../../../../../../../..)
 primevideo.com##.tst-collection h2.tst-carousel-header:has-text(/^3 months for/i):xpath(../../../../..)
+
+#netflix.com##.watch-video--skip-content
+#netflix.com##.watch-video--back-container
+#netflix.com##.watch-video--flag-container
+#netflix.com##.watch-video--advisories-container
 
 ad.nl##.advertising-container-top
 ad.nl##.layout__component--temptation
