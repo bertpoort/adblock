@@ -44,3 +44,8 @@ sdkconfig.ad.intl.xiaomi.com
 thm.market.intl.xiaomi.com
 resolver.msg.xiaomi.net
 jupiter.intl.sys.miui.com
+api.ad.intl.xiaomi.com
+global.market.xiaomi.com
+sf0.market.xiaomi.com
+tracking.intl.miui.com
+update.intl.miui.com
