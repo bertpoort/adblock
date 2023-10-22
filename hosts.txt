@@ -49,3 +49,5 @@ global.market.xiaomi.com
 sf0.market.xiaomi.com
 tracking.intl.miui.com
 update.intl.miui.com
+#data.sec.intl.miui.com
+#adv.sec.intl.miui.com
