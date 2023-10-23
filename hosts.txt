@@ -4,7 +4,7 @@
 #sygic-api.infinario.com
 #static.pexi.nl
 #pexi.nl
-#bidding.pexi.nl
+bidding.pexi.nl
 statslogger.rocket.persgroep.cloud
 static-nl.plista.com
 farm-nl.plista.com
@@ -29,7 +29,7 @@ analytics.streamone.net
 ads-tmg.adhese.com
 advertising-cdn.dpgmedia.cloud
 advertising-module.api.dpgmedia.cloud
-sp.dpgmedia.net
+#sp.dpgmedia.net
 mobile-collector.newrelic.com
 api.bugsnag.com
 app.bugsnag.com
