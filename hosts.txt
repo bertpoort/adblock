@@ -73,13 +73,16 @@ p1cluster.cxense.com
 scdn.cxense.com
 assetscdn.pushengage.com
 clientcdn.pushengage.com
-analytics.sleeknote.com
 #t.ad.nl
 #temptation.ad.nl
 macro.adnami.io
 tracker.adnami.io
 analytics.digitalaudience.io
 target.digitalaudience.io
+analytics.sleeknote.com
+sleeknotecustomerscripts.sleeknote.com
+sleeknotestaticcontent.sleeknote.com
+invitation.opinionbar.com
 
 # Microsoft
 activity.windows.com
