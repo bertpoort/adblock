@@ -1,4 +1,4 @@
-dns.digitale-gesellschaft.ch
+#dns.digitale-gesellschaft.ch
 
 #syndication.twitter.com
 #sygic-api.infinario.com
@@ -92,6 +92,14 @@ collector.brandmetrics.com
 api.rubiconproject.com
 eus.rubiconproject.com
 token.rubiconproject.com
+api.mediavoice.com
+cdn.mediavoice.com
+api.parsely.com
+cdn.parsely.com
+p1.parsely.com
+api.adsafeprotected.com
+cdn.adsafeprotected.com
+static.adsafeprotected.com
 
 # Microsoft
 activity.windows.com
@@ -130,7 +138,10 @@ app-measurement.com
 click.googleanalytics.com
 google-analytics.com
 googleads.g.doubleclick.net
+googletagmanager.com
+googletagservices.com
 imasdk.googleapis.com
+#jnn-pa.googleapis.com
 m.doubleclick.net
 mediavisor.doubleclick.net
 pagead2.googleadservices.com
@@ -142,6 +153,7 @@ stats.g.doubleclick.net
 undefined.fls.doubleclick.net
 www.google-analytics.com
 www.googletagmanager.com
+www.googletagservices.com
 youtubei.googleapis.com
 yt3.ggpht.com
 
