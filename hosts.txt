@@ -55,6 +55,17 @@ adx2.adform.net
 adx3.adform.net
 aswpsdkus.com
 static.cloudflareinsights.com
+api.id5-sync.com
+id5-sync.com
+api.btloader.com
+pbs.btloader.com
+static.btloader.com
+api.cxense.com
+cdn.cxense.com
+comcluster.cxense.com
+id.cxense.com
+p1cluster.cxense.com
+scdn.cxense.com
 
 # Microsoft
 activity.windows.com
