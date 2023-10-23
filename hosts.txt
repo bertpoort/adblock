@@ -2,9 +2,9 @@
 
 #syndication.twitter.com
 #sygic-api.infinario.com
-#static.pexi.nl
-#pexi.nl
 bidding.pexi.nl
+static.pexi.nl
+#widgets.pexi.nl
 statslogger.rocket.persgroep.cloud
 static-nl.plista.com
 farm-nl.plista.com
@@ -102,6 +102,9 @@ cdn.adsafeprotected.com
 static.adsafeprotected.com
 cdn.memo.co
 elsa.memoinsights.com
+datadoghq-browser-agent.com
+sentry.io
+ingest.sentry.io
 
 # Microsoft
 activity.windows.com
