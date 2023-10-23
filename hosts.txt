@@ -115,4 +115,5 @@ tracking.intl.miui.com
 tracking.miui.com
 tracking.rus.miui.com
 update.intl.miui.com
+update.miui.com
 us.galleryapi.micloud.xiaomi.net
