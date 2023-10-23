@@ -26,6 +26,11 @@ tentacles.smartocto.com
 analytics.streamone.net
 ads-tmg.adhese.com
 advertising-module.api.dpgmedia.cloud
+mobile-collector.newrelic.com
+api.bugsnag.com
+app.bugsnag.com
+notify.bugsnag.com
+sessions.bugsnag.com
 
 # Microsoft
 activity.windows.com
@@ -39,6 +44,7 @@ vortex.data.microsoft.com
 
 # Google
 ad.doubleclick.net
+ads.youtube.com
 adservice.google.com
 afs.googlesyndication.com
 analytics.google.com
@@ -57,6 +63,7 @@ static.doubleclick.net
 stats.g.doubleclick.net
 www.google-analytics.com
 www.googletagmanager.com
+#youtubei.googleapis.com
 #yt3.ggpht.com
 
 # Facebook
