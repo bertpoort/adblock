@@ -58,6 +58,7 @@ static.cloudflareinsights.com
 api.id5-sync.com
 id5-sync.com
 api.btloader.com
+btloader.com
 pbs.btloader.com
 static.btloader.com
 api.cxense.com
@@ -66,6 +67,9 @@ comcluster.cxense.com
 id.cxense.com
 p1cluster.cxense.com
 scdn.cxense.com
+assetscdn.pushengage.com
+clientcdn.pushengage.com
+analytics.sleeknote.com
 
 # Microsoft
 activity.windows.com
