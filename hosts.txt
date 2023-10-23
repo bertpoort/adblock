@@ -8,18 +8,18 @@ static-nl.plista.com
 farm-nl.plista.com
 fbc.wcfbc.net
 config.samqaicongen.com
-moaps.tmo.net
-animated.dt71.net
+#moaps.tmo.net
+#animated.dt71.net
 api.facemojikeyboard.com
 globalapi.facemojikeyboard.com
 litemsg.facemojikeyboard.com
 litestatis.facemojikeyboard.com
 #nl.kpn.rcs.telephony.goog
 #_sips._tcp.nl.kpn.rcs.telephony.goog
-prod-native.actionbutton.co
-api.actionbutton.co
-static.actionbutton.co
-embed.actionbutton.co
+#prod-native.actionbutton.co
+#api.actionbutton.co
+#static.actionbutton.co
+#embed.actionbutton.co
 api.smartocto.com
 ingestion.smartocto.com
 tentacles.smartocto.com
@@ -46,6 +46,7 @@ api.branch.io
 api2.branch.io
 ws.batch.com
 metrics.nu.nl
+dev.visualwebsiteoptimizer.com
 
 # Microsoft
 activity.windows.com
