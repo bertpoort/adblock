@@ -31,6 +31,12 @@ api.bugsnag.com
 app.bugsnag.com
 notify.bugsnag.com
 sessions.bugsnag.com
+browser.sentry-cdn.com
+downloads.sentry-cdn.com
+js-backup.sentry-cdn.com
+js.sentry-cdn.com
+status.sentry-cdn.com
+tracing.sentry-cdn.com
 
 # Microsoft
 activity.windows.com
