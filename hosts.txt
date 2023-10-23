@@ -56,6 +56,7 @@ securepubads.g.doubleclick.net
 ssl.google-analytics.com
 static.doubleclick.net
 stats.g.doubleclick.net
+www.google-analytics.com
 www.googletagmanager.com
 
 # Facebook
