@@ -159,7 +159,7 @@ undefined.fls.doubleclick.net
 www.google-analytics.com
 www.googletagmanager.com
 www.googletagservices.com
-youtubei.googleapis.com
+#youtubei.googleapis.com
 yt3.ggpht.com
 
 # Facebook
