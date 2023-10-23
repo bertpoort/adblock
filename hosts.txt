@@ -48,13 +48,30 @@ ws.batch.com
 
 # Microsoft
 activity.windows.com
+browser.events.data.microsoft.com
+browser.pipe.aria.microsoft.com
 config.edge.skype.com
+eu-v10.events.data.microsoft.com
+eu-v20.events.data.microsoft.com
+eu.vortex-win.data.microsoft.com
+eu.vortex.data.microsoft.com
+events.data.microsoft.com
 in.appcenter.ms
 messaging.engagement.office.com
+mobile.events.data.microsoft.com
 mobile.pipe.aria.microsoft.com
 self.events.data.microsoft.com
+self.events.data.microsoft.com
 substrate.office.com
+survey.watson.microsoft.com
+v10.vortex-win.data.microsoft.com
+v20.vortex-win.data.microsoft.com
+vortex-sandbox.data.microsoft.com
+vortex-win.data.microsoft.com
 vortex.data.microsoft.com
+watson.ppe.telemetry.microsoft.com
+watson.telemetry.microsoft.com
+web.vortex.data.microsoft.com
 
 # Google
 ad.doubleclick.net
@@ -82,6 +99,7 @@ yt3.ggpht.com
 
 # Facebook
 an.facebook.com
+b-graph.facebook.com
 connect.facebook.net
 graph.facebook.com
 pixel.facebook.com
