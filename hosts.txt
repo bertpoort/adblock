@@ -1,3 +1,5 @@
+#dns.digitale-gesellschaft.ch
+
 #syndication.twitter.com
 #sygic-api.infinario.com
 #static.pexi.nl
