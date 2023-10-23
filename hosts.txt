@@ -63,7 +63,7 @@ static.doubleclick.net
 stats.g.doubleclick.net
 www.google-analytics.com
 www.googletagmanager.com
-#youtubei.googleapis.com
+youtubei.googleapis.com
 #yt3.ggpht.com
 
 # Facebook
