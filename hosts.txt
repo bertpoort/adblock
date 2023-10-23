@@ -83,6 +83,15 @@ analytics.sleeknote.com
 sleeknotecustomerscripts.sleeknote.com
 sleeknotestaticcontent.sleeknote.com
 invitation.opinionbar.com
+acdn.adnxs.com
+ads.adnxs.com
+adx.adnxs.com
+api.brandmetrics.com
+cdn.brandmetrics.com
+collector.brandmetrics.com
+api.rubiconproject.com
+eus.rubiconproject.com
+token.rubiconproject.com
 
 # Microsoft
 activity.windows.com
