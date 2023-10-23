@@ -54,6 +54,7 @@ adx.adform.net
 adx2.adform.net
 adx3.adform.net
 aswpsdkus.com
+static.cloudflareinsights.com
 
 # Microsoft
 activity.windows.com
