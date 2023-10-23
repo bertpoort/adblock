@@ -1,13 +1,12 @@
-activity.windows.com
-syndication.twitter.com
+#syndication.twitter.com
 #sygic-api.infinario.com
 static.pexi.nl
 pexi.nl
+bidding.pexi.nl
 statslogger.rocket.persgroep.cloud
 static-nl.plista.com
 farm-nl.plista.com
 fbc.wcfbc.net
-yt3.ggpht.com
 config.samqaicongen.com
 moaps.tmo.net
 animated.dt71.net
@@ -15,14 +14,12 @@ api.facemojikeyboard.com
 globalapi.facemojikeyboard.com
 litemsg.facemojikeyboard.com
 litestatis.facemojikeyboard.com
-nl.kpn.rcs.telephony.goog
-_sips._tcp.nl.kpn.rcs.telephony.goog
-bidding.pexi.nl
+#nl.kpn.rcs.telephony.goog
+#_sips._tcp.nl.kpn.rcs.telephony.goog
 prod-native.actionbutton.co
 api.actionbutton.co
 static.actionbutton.co
 embed.actionbutton.co
-vortex.data.microsoft.com
 api.smartocto.com
 ingestion.smartocto.com
 tentacles.smartocto.com
@@ -31,12 +28,14 @@ ads-tmg.adhese.com
 advertising-module.api.dpgmedia.cloud
 
 # Microsoft
+activity.windows.com
 config.edge.skype.com
 in.appcenter.ms
 messaging.engagement.office.com
 mobile.pipe.aria.microsoft.com
 self.events.data.microsoft.com
 substrate.office.com
+vortex.data.microsoft.com
 
 # Google
 ad.doubleclick.net
@@ -58,6 +57,7 @@ static.doubleclick.net
 stats.g.doubleclick.net
 www.google-analytics.com
 www.googletagmanager.com
+#yt3.ggpht.com
 
 # Facebook
 an.facebook.com
