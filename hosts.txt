@@ -25,6 +25,22 @@ static.actionbutton.co
 embed.actionbutton.co
 vortex.data.microsoft.com
 
+# Google
+ad.doubleclick.net
+adservice.google.com
+afs.googlesyndication.com
+analytics.google.com
+app-measurement.com
+click.googleanalytics.com
+google-analytics.com
+m.doubleclick.net
+mediavisor.doubleclick.net
+pagead2.googleadservices.com
+pagead2.googlesyndication.com
+ssl.google-analytics.com
+static.doubleclick.net
+stats.g.doubleclick.net
+
 # Facebook
 an.facebook.com
 connect.facebook.net
