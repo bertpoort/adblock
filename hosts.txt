@@ -47,7 +47,7 @@ api2.branch.io
 ws.batch.com
 metrics.nu.nl
 dev.visualwebsiteoptimizer.com
-#boot.pbstck.com
+boot.pbstck.com
 cdn.pbstck.com
 intake.pbstck.com
 adx.adform.net
