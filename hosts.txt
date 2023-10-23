@@ -37,6 +37,14 @@ js-backup.sentry-cdn.com
 js.sentry-cdn.com
 status.sentry-cdn.com
 tracing.sentry-cdn.com
+analytics.usabilla.com
+sdk.out.usbla.net
+w.usabilla.com
+sdk.iad-01.braze.com
+sdk.iad-02.braze.com
+api.branch.io
+api2.branch.io
+ws.batch.com
 
 # Microsoft
 activity.windows.com
