@@ -49,7 +49,6 @@ sdk.iad-02.braze.com
 api.branch.io
 api2.branch.io
 ws.batch.com
-metrics.nu.nl
 dev.visualwebsiteoptimizer.com
 boot.pbstck.com
 cdn.pbstck.com
@@ -73,8 +72,9 @@ p1cluster.cxense.com
 scdn.cxense.com
 assetscdn.pushengage.com
 clientcdn.pushengage.com
-#t.ad.nl
-#temptation.ad.nl
+metrics.nu.nl
+t.ad.nl
+temptation.ad.nl
 macro.adnami.io
 tracker.adnami.io
 analytics.digitalaudience.io
