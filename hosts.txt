@@ -135,6 +135,7 @@ web.vortex.data.microsoft.com
 
 # Google
 ad.doubleclick.net
+ade.googlesyndication.com
 ads.youtube.com
 adservice.google.com
 afs.googlesyndication.com
