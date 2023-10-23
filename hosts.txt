@@ -1,4 +1,4 @@
-#dns.digitale-gesellschaft.ch
+dns.digitale-gesellschaft.ch
 
 #syndication.twitter.com
 #sygic-api.infinario.com
