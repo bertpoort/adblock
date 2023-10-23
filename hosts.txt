@@ -100,6 +100,8 @@ p1.parsely.com
 api.adsafeprotected.com
 cdn.adsafeprotected.com
 static.adsafeprotected.com
+cdn.memo.co
+elsa.memoinsights.com
 
 # Microsoft
 activity.windows.com
