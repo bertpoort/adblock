@@ -47,6 +47,13 @@ api2.branch.io
 ws.batch.com
 metrics.nu.nl
 dev.visualwebsiteoptimizer.com
+#boot.pbstck.com
+cdn.pbstck.com
+intake.pbstck.com
+adx.adform.net
+adx2.adform.net
+adx3.adform.net
+aswpsdkus.com
 
 # Microsoft
 activity.windows.com
