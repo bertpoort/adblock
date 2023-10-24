@@ -74,6 +74,7 @@ scdn.cxense.com
 assetscdn.pushengage.com
 clientcdn.pushengage.com
 metrics.nu.nl
+#cmp.ad.nl
 #t.ad.nl
 #temptation.ad.nl
 macro.adnami.io
