@@ -107,6 +107,7 @@ elsa.memoinsights.com
 datadoghq-browser-agent.com
 sentry.io
 ingest.sentry.io
+#analytics.genial.ly
 
 # Microsoft
 activity.windows.com
