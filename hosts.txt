@@ -29,6 +29,7 @@ analytics.streamone.net
 ads-tmg.adhese.com
 advertising-cdn.dpgmedia.cloud
 advertising-module.api.dpgmedia.cloud
+#c.dpgmedia.net
 #sp.dpgmedia.net
 mobile-collector.newrelic.com
 api.bugsnag.com
