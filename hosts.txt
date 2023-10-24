@@ -1,5 +1,6 @@
 #dns.digitale-gesellschaft.ch
 
+#cdn.syndication.twimg.com
 #syndication.twitter.com
 #sygic-api.infinario.com
 bidding.pexi.nl
