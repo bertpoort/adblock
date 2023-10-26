@@ -1,0 +1,10 @@
+# Version: 202310261645
+# Title: bertpoort allowed domains
+# Last modified: 2023-10-26T16:45:00+0000
+# Expires: 1 hours
+# Homepage: https://github.com/bertpoort/adblock/
+# License: https://github.com/bertpoort/adblock/raw/main/LICENSE
+# License: https://raw.githubusercontent.com/bertpoort/adblock/main/LICENSE
+# Syntax: Domains
+
+kernel.org
