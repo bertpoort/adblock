@@ -9,14 +9,14 @@
 ! GitHub pull requests: https://github.com/bertpoort/adblock/pulls
 
 #||.bid^$third-party
-||adrequest.net^$third-party
-||advendor.net^$third-party
-||consensu.org^$third-party
+#||adrequest.net^$third-party
+#||advendor.net^$third-party
+#||consensu.org^$third-party
 #||disqus.com^$third-party
 #||disquscdn.com^$third-party
 #||edgecastcdn.net^$third-party
 ||facebook.*^$domain=~facebook.com|~facebook.net|~cc.com
-||faktor.io^$third-party
+#||faktor.io^$third-party
 ||fbcdn.net^$domain=~facebook.com|~facebook.net|~cc.com
 ||accounts.google.com^$domain=~google.com|~google.nl
 ||apis.google.com^$domain=~google.com|~google.nl
@@ -26,22 +26,22 @@
 #||googlesyndication.com^$third-party
 #||googletagservices.com^$third-party
 #||gigya.com^$third-party
-||gravity.com^$third-party
+#||gravity.com^$third-party
 #||nextday.media^$third-party
-||outbrain.com^$third-party
+#||outbrain.com^$third-party
 #||plusone.google.com^$domain=~google.com|~google.nl
 #||sanomaservices.nl^$third-party
-||shareaholic.net^$third-party
-||sprinklecontent.com^$third-party
-||taboola.com^$third-party
-||taboolasyndication.com^$third-party
-||tiqcdn.com^$third-party
-||trackuity.supplies^$third-party
+#||shareaholic.net^$third-party
+#||sprinklecontent.com^$third-party
+#||taboola.com^$third-party
+#||taboolasyndication.com^$third-party
+#||tiqcdn.com^$third-party
+#||trackuity.supplies^$third-party
 #||twitter.*^$domain=~twitter.com|~twitter.net
 #||twimg.com^$domain=~twitter.com|~twitter.net
-||ur.ly^$third-party
-||zemanta.com^$third-party
-||zergnet.com^$third-party
+#||ur.ly^$third-party
+#||zemanta.com^$third-party
+#||zergnet.com^$third-party
 
 @@||kernel.org^$document
 # @@||google-analytics.com
