@@ -104,6 +104,7 @@ cdn.brandmetrics.com
 collector.brandmetrics.com
 api.rubiconproject.com
 eus.rubiconproject.com
+fastlane.rubiconproject.com
 token.rubiconproject.com
 api.mediavoice.com
 cdn.mediavoice.com
