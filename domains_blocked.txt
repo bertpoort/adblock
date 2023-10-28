@@ -207,6 +207,7 @@ data.mistat.xiaomi.com
 de-idm.api.io.mi.com
 find.api.micloud.xiaomi.net
 fr.app.chat.global.xiaomi.net
+fr.resolver.msg.global.xiaomi.net
 g.galleryapi.micloud.xiaomi.net
 global.market.xiaomi.com
 globalapi.ad.intl.xiaomi.com
