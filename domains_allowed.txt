@@ -8,3 +8,4 @@
 # Syntax: Domains
 
 kernel.org
+foo.bar
