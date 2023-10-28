@@ -8,6 +8,7 @@
 # Syntax: Domains
 
 #dns.digitale-gesellschaft.ch
+foo.bar
 
 #cdn.syndication.twimg.com
 #syndication.twitter.com
