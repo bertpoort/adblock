@@ -126,6 +126,7 @@ activity.windows.com
 browser.events.data.microsoft.com
 browser.pipe.aria.microsoft.com
 config.edge.skype.com
+eu-mobile.events.data.microsoft.com
 eu-v10.events.data.microsoft.com
 eu-v20.events.data.microsoft.com
 eu.vortex-win.data.microsoft.com
