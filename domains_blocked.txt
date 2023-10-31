@@ -193,6 +193,7 @@ web.facebook.com
 api.ad.intl.xiaomi.com
 api.ad.xiaomi.com
 api.input.intl.miui.com
+api.gallery.intl.miui.com
 #api.sec.intl.miui.com
 #api.sec.miui.com
 #auth.be.sec.miui.com
@@ -206,6 +207,7 @@ data.mistat.xiaomi.com
 #data.sec.miui.com
 de-idm.api.io.mi.com
 find.api.micloud.xiaomi.net
+#flash.sec.intl.miui.com
 fr.app.chat.global.xiaomi.net
 fr.resolver.msg.global.xiaomi.net
 g.galleryapi.micloud.xiaomi.net
@@ -216,8 +218,10 @@ i.mi.com
 idm.iot.mi.com
 jupiter.intl.sys.miui.com
 mcc.intl.inf.miui.com
+mcc-intl.inf.miui.com
 metok-ccc.intl.xiaomi.com
 metok.intl.xiaomi.com
+#pi.ias.xiaomi.com
 resolver.msg.global.xiaomi.net
 resolver.msg.xiaomi.net
 sdkconfig.ad.intl.xiaomi.com
