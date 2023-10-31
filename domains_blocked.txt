@@ -120,6 +120,8 @@ datadoghq-browser-agent.com
 sentry.io
 ingest.sentry.io
 #analytics.genial.ly
+app.adjust.net.in
+app.adjust.world
 
 # Microsoft
 activity.windows.com
