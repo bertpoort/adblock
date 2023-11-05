@@ -156,6 +156,7 @@ ad.doubleclick.net
 ade.googlesyndication.com
 ads.youtube.com
 adservice.google.com
+adservice.google.nl
 afs.googlesyndication.com
 analytics.google.com
 app-measurement.com
