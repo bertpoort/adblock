@@ -122,6 +122,7 @@ ingest.sentry.io
 #analytics.genial.ly
 app.adjust.net.in
 app.adjust.world
+sb.scorecardresearch.com
 
 # Microsoft
 activity.windows.com
