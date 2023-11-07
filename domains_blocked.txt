@@ -213,6 +213,7 @@ data.mistat.xiaomi.com
 de-idm.api.io.mi.com
 find.api.micloud.xiaomi.net
 #flash.sec.intl.miui.com
+#flash.sec.miui.com
 fr.app.chat.global.xiaomi.net
 fr.resolver.msg.global.xiaomi.net
 g.galleryapi.micloud.xiaomi.net
