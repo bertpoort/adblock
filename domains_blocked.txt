@@ -230,6 +230,7 @@ metok.intl.xiaomi.com
 #pi.ias.xiaomi.com
 resolver.msg.global.xiaomi.net
 resolver.msg.xiaomi.net
+sdkconfig.ad.india.xiaomi.com
 sdkconfig.ad.intl.xiaomi.com
 sdkconfig.ad.xiaomi.com
 sf0.market.xiaomi.com
