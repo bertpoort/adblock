@@ -166,7 +166,7 @@ google-analytics.com
 googleads.g.doubleclick.net
 googletagmanager.com
 googletagservices.com
-imasdk.googleapis.com
+#imasdk.googleapis.com
 #jnn-pa.googleapis.com
 m.doubleclick.net
 mediavisor.doubleclick.net
