@@ -234,6 +234,7 @@ moaps.tmo.net
 #pi.ias.xiaomi.com
 resolver.msg.global.xiaomi.net
 resolver.msg.xiaomi.net
+sa.api.intl.miui.com
 sdkconfig.ad.india.xiaomi.com
 sdkconfig.ad.intl.xiaomi.com
 sdkconfig.ad.xiaomi.com
