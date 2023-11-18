@@ -1,6 +1,6 @@
-# Version: 202310281655
+# Version: 202311181655
 # Title: bertpoort blocked domains
-# Last modified: 2023-10-28T16:55:00+0000
+# Last modified: 2023-11-18T16:55:00+0000
 # Expires: 1 hours
 # Homepage: https://github.com/bertpoort/adblock/
 # License: https://github.com/bertpoort/adblock/raw/main/LICENSE
