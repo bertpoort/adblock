@@ -230,6 +230,7 @@ mcc.intl.inf.miui.com
 mcc-intl.inf.miui.com
 metok-ccc.intl.xiaomi.com
 metok.intl.xiaomi.com
+moaps.tmo.net
 #pi.ias.xiaomi.com
 resolver.msg.global.xiaomi.net
 resolver.msg.xiaomi.net
