@@ -198,6 +198,7 @@ web.facebook.com
 # Xiaomi
 #adv.sec.intl.miui.com
 #adv.sec.miui.com
+#api.account.xiaomi.com
 api.ad.intl.xiaomi.com
 api.ad.xiaomi.com
 api.input.intl.miui.com
@@ -232,6 +233,7 @@ metok-ccc.intl.xiaomi.com
 metok.intl.xiaomi.com
 moaps.tmo.net
 #pi.ias.xiaomi.com
+#relocationapi.micloud.xiaomi.net
 resolver.msg.global.xiaomi.net
 resolver.msg.xiaomi.net
 sa.api.intl.miui.com
