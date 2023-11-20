@@ -239,6 +239,8 @@ sdkconfig.ad.india.xiaomi.com
 sdkconfig.ad.intl.xiaomi.com
 sdkconfig.ad.xiaomi.com
 sf0.market.xiaomi.com
+#srv.sec.intl.miui.com
+#srv.sec.miui.com
 thm.market.intl.xiaomi.com
 track.ad.xiaomi.com
 tracking.intl.miui.com
