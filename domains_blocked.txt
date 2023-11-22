@@ -218,6 +218,7 @@ data.mistat.xiaomi.com
 #data.sec.intl.miui.com
 #data.sec.miui.com
 de-idm.api.io.mi.com
+file.update.miui.com
 find.api.micloud.xiaomi.net
 findapi.micloud.xiaomi.net
 #flash.sec.intl.miui.com
