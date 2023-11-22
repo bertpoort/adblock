@@ -196,8 +196,8 @@ web.facebook.com
 #www.facebook.com
 
 # Xiaomi
-#adv.sec.intl.miui.com
-#adv.sec.miui.com
+adv.sec.intl.miui.com
+adv.sec.miui.com
 #api.account.xiaomi.com
 api.accelerator.intl.miui.com
 api.accelerator.miui.com
