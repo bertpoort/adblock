@@ -227,6 +227,8 @@ globalapi.ad.xiaomi.com
 i.mi.com
 idm.iot.mi.com
 jupiter.intl.sys.miui.com
+#mazu.sec.intl.miui.com
+#mazu.sec.miui.com
 mcc.intl.inf.miui.com
 mcc-intl.inf.miui.com
 metok-ccc.intl.xiaomi.com
