@@ -210,7 +210,8 @@ api.gallery.intl.miui.com
 appauth.account.xiaomi.com
 #auth.be.sec.miui.com
 #authbe.sec.intl.miui.com
-api.zhuti.intl.xiaomi.com
+#api.zhuti.intl.xiaomi.com
+#api.zhuti.xiaomi.com
 data.mistat.india.xiaomi.com
 data.mistat.intl.xiaomi.com
 data.mistat.rus.xiaomi.com
